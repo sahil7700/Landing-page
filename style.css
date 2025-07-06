@@ -121,6 +121,9 @@ header ul li{
     text-align: center;
     opacity: 60%;
     font-weight: 500;
+    /* align-items: center; */
+    padding-left: 10px;
+    padding-right: 30px;
 }
 
 .midOne h1{
